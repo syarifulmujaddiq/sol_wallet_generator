@@ -1,6 +1,6 @@
 # Solana Wallet Generator Script
 
-Script ini digunakan untuk membuat 100 wallet Solana secara otomatis dan menyimpan hasilnya ke dalam file `solana_wallets.txt`.
+Script ini digunakan untuk membuat multiple wallet Solana secara otomatis dan menyimpan hasilnya ke dalam file `solana_wallets.txt`.
 
 ## **Prasyarat**
 Pastikan Anda telah menginstal:
